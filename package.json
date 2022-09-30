@@ -18,6 +18,6 @@
     "nodemon": "^2.0.5"
   },
   "dependencies": {
-    "uuid": "^8.3.1"
+    "uuid": "28195121-049a-4297-b1a3-87acb6988ab4"
   }
 }
